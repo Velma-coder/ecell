@@ -2,7 +2,7 @@
   "name": "ecell",
   "version": "1.0.0",
   "description": "",
-  "main": "\u001b[D\u001bhtml)",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
